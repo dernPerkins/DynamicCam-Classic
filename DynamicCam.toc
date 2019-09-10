@@ -1,6 +1,6 @@
 ## Interface: 80000
 ## Version: Beta 4
-## Title: DynamicCam-Classic
+## Title: DynamicCam
 ## Author: dernPerkins
 ## SavedVariables: DynamicCamDB
 ## Notes: DynamicCam being updated for Classic
