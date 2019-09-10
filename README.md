@@ -9,7 +9,7 @@ Thanks to the commentors [yoshimario40](https://www.curseforge.com/members/yoshi
 
 ## Download Pre-Release
 
-Please go the the [Releases Page](https://github.com/dernPerkins/DynamicCam-Classic/releases) to find the latest zip to download.
+####Please go to the [Releases Page](https://github.com/dernPerkins/DynamicCam-Classic/releases) for the latest zip.####
 
 Just like other addons, place this into your Interfaces/Addons folder. 
 
