@@ -1,9 +1,9 @@
 ## Interface: 80000
 ## Version: Beta 4
-## Title: DynamicCam
-## Author: mpstark
+## Title: DynamicCam-Classic
+## Author: dernPerkins
 ## SavedVariables: DynamicCamDB
-## Notes: A more dynamic camera.
+## Notes: DynamicCam being updated for Classic
 ## OptionalDeps: Ace3, LibCamera, LibEasing, LibCompress
 
 embeds.xml

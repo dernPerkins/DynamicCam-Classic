@@ -22,7 +22,7 @@ local exportName, exportAuthor;
 
 local welcomeMessage = [[Hello and welcome to DynamicCam! I'm glad that you're here and I hope that you have fun with the addon.
 
-If you find an problem or want to make a suggestion, please, please leave a note in the Curse comments or PM me on reddit (I'm /u/mpstark).
+If you find an problem or want to make a suggestion, please, please leave a note in the Curse comments or PM me on reddit (I'm /u/ghost990).
 
 I've actually managed to stick this up on GitHub, so please, if you'd like to contribute, open a pull request there.
 
