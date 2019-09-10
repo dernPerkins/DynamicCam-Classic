@@ -1,0 +1,14 @@
+## Interface: 80000
+## Version: Beta 4
+## Title: DynamicCam
+## Author: mpstark
+## SavedVariables: DynamicCamDB
+## Notes: A more dynamic camera.
+## OptionalDeps: Ace3, LibCamera, LibEasing, LibCompress
+
+embeds.xml
+
+Core.lua
+Sharing.lua
+Presets.lua
+Options.lua
