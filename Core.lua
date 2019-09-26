@@ -40,7 +40,7 @@ local ACTION_CAM_CVARS = {
 -------------
 -- GLOBALS --
 -------------
-DynamicCam = AceAddon:NewAddon("DynamicCam", "AceConsole-3.0", "AceEvent-3.0", "AceTimer-3.0");
+DynamicCam = AceAddon:NewAddon("DynamicCam-Classic", "AceConsole-3.0", "AceEvent-3.0", "AceTimer-3.0");
 DynamicCam.currentSituationID = nil;
 
 

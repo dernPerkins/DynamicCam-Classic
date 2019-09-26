@@ -1,4 +1,4 @@
-package-as: DynamicCam
+package-as: DynamicCam-Classic
 
 externals:
     Libs/AceAddon-3.0:
