@@ -1,4 +1,4 @@
-## Interface: 31882
+## Interface: 11302
 ## Version: Beta 4
 ## Title: DynamicCam-Classic
 ## Author: dernPerkins
